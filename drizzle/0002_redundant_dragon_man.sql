@@ -1,0 +1,1 @@
+ALTER TABLE `evaluations` RENAME COLUMN `behavior` TO `safety`;

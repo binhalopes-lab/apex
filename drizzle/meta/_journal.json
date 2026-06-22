@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1765183393751,
+      "tag": "0000_busy_charles_xavier",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1765183482053,
+      "tag": "0001_tense_moon_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1765348017195,
+      "tag": "0002_redundant_dragon_man",
+      "breakpoints": true
+    }
+  ]
+}
